@@ -3,7 +3,7 @@
 A user-friendly calculator app designed for basic arithmetic operations, including addition, subtraction, multiplication, division, and modulus. It offers a clean design with smooth error handling to deliver a seamless user experience.
 
 **Code Output:**
-Please click [here](https://sushilkumar567.github.io/2-calculator-app/) to view the live code output.
+Please click [here](https://sushilkumar567.github.io/02-calculator-app/) to view the live code output.
 
 ## Technologies Used:
 
