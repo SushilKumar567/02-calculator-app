@@ -1,9 +1,12 @@
 {
+  "homepage": "https://sushilkumar567.github.io/02-calculator-app/",
   "name": "2-calculator-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
